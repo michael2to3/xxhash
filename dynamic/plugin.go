@@ -8,7 +8,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/cespare/xxhash/v2"
+	"github.com/michael2to3/xxhash"
 )
 
 const (
